@@ -12,13 +12,6 @@ https://colab.research.google.com/github/alexandre-laine/2026-02-03_AI-Workshop_
 https://colab.research.google.com/github/alexandre-laine/2026-02-03_AI-Workshop_Introduction-to-PyTorch/blob/main/Tutorial_Pytorch2.ipynb
 
 
-These notebooks are intended to be run on **Google Colab**.
-
-Before running:
-- Go to **Runtime → Change runtime type**
-- Select **GPU**
-
-
 ## External resources
 
 ### Autodifferentiation
